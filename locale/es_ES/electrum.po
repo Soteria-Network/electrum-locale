@@ -2170,7 +2170,7 @@ msgstr "Añadir tiempo de bloqueo"
 
 #: electrum/simple_config.py:820
 msgid "Edit fees manually"
-msgstr "Editar comisiones manualmente\n"
+msgstr "Editar comisiones manualmente"
 ""
 
 #: electrum/gui/qt/contact_list.py:96 electrum/gui/qt/address_list.py:302
@@ -8629,7 +8629,7 @@ msgstr "Balance local"
 #: electrum/gui/qml/components/ChannelDetails.qml:198
 msgctxt "ChannelDetails|"
 msgid "n/a (channel not open)"
-msgstr "n/a (canal sin abrir)\n"
+msgstr "n/a (canal sin abrir)"
 ""
 
 #: electrum/gui/qml/components/ChannelDetails.qml:129
